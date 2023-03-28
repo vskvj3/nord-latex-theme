@@ -68,7 +68,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord5</text>
+<text x="5%" y="55%" fill="White">nord4</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#d8dee9;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#d8dee9</text>
 </svg>
@@ -77,7 +77,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord6</text>
+<text x="5%" y="55%" fill="White">nord5</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#e5e9f0;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#e5e9f0</text>
 </svg>
@@ -86,7 +86,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord7</text>
+<text x="5%" y="55%" fill="White">nord6</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#eceff4;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#eceff4</text>
 </svg>
@@ -96,7 +96,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord8</text>
+<text x="5%" y="55%" fill="White">nord7</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#8fbcbb;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#8fbcbb</text>
 </svg>
@@ -105,7 +105,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord9</text>
+<text x="5%" y="55%" fill="White">nord8</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#88c0d0;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#88c0d0</text>
 </svg>
@@ -114,7 +114,7 @@ git clone https://github.com/vskvj3/nord-latex-theme
     xmlns="http://www.w3.org/2000/svg"
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord7</text>
+<text x="5%" y="55%" fill="White">nord9</text>
 <rect x="35%" y="33%" width="20%" height="25%" style="fill:#81a1c1;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
 <text x="63%" y="55%" fill="White">#81a1c1</text>
 </svg>
