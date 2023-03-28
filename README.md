@@ -25,146 +25,30 @@ git clone https://github.com/vskvj3/nord-latex-theme
 ### Color Reference:
 #### Polar Night
 ![nord0](colorpalette/nord0.svg)
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord1</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#3b4252;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#3b4252</text>
-</svg>
-<br>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord2</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#434c5e;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#434c5e</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord3</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#4c566a;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#4c566a</text>
-</svg>
-<br>
+![nord1](colorpalette/nord1.svg)
+![nord2](colorpalette/nord2.svg)
+![nord3](colorpalette/nord3.svg)
+
 #### Snow Storm
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord4</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#d8dee9;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#d8dee9</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord5</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#e5e9f0;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#e5e9f0</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord6</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#eceff4;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#eceff4</text>
-</svg>
+![nord4](colorpalette/nord4.svg)
+![nord5](colorpalette/nord5.svg)
+![nord6](colorpalette/nord6.svg)
+
 #### Frost
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord7</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#8fbcbb;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#8fbcbb</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord8</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#88c0d0;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#88c0d0</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord9</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#81a1c1;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#81a1c1</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord10</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#5e81ac;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#5e81ac</text>
-</svg>
+![nord7](colorpalette/nord7.svg)
+![nord8](colorpalette/nord8.svg)
+![nord9](colorpalette/nord9.svg)
+![nord10](colorpalette/nord10.svg)
 #### Aurora
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord11</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#bf616a;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#bf616a</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord12</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#d08770;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#d08770</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord13</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#ebcb8b;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#ebcb8b</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord14</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#a3be8c;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#a3be8c</text>
-</svg>
-<svg
-    width="250" height="60"
-    xmlns="http://www.w3.org/2000/svg"
-    >
-<rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
-<text x="5%" y="55%" fill="White">nord15</text>
-<rect x="35%" y="33%" width="20%" height="25%" style="fill:#b48ead;stroke-width:1;stroke:rgb(0,0,0)" rx="5" />
-<text x="63%" y="55%" fill="White">#b48ead</text>
-</svg>
+![nord11](colorpalette/nord11.svg)
+![nord12](colorpalette/nord12.svg)
+![nord13](colorpalette/nord13.svg)
+![nord14](colorpalette/nord14.svg)
+![nord15](colorpalette/nord15.svg)
+
+
+
+
 
 
 
