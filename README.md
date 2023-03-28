@@ -25,8 +25,10 @@ git clone https://github.com/vskvj3/nord-latex-theme
 ### Color Reference:
 #### Polar Night
 <svg
+    viewBox="0 0 250 60"
     width="250" height="60"
     xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink='http://www.w3.org/1999/xlink'
     >
 <rect width="100%" height="100%" style="fill:rgb(36,41,46);stroke-width:1;stroke:rgb(0,0,0)" rx="15" />
 <text x="5%" y="55%" fill="White">nord0</text>
